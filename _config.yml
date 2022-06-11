@@ -23,7 +23,7 @@ timezone: Europe/Berlin
 
 title: Hung Pham                          # the main title
 
-tagline: A personal documentation webpage   # it will display as the sub-title
+tagline: A personal learning profile   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting documents and notes written by Hung Pham.
