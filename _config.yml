@@ -23,7 +23,7 @@ timezone: Europe/Berlin
 
 title: Hung Pham                          # the main title
 
-tagline: A personal learning profile   # it will display as the sub-title
+tagline: A personal note webpage   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting documents and notes written by Hung Pham.
@@ -48,7 +48,7 @@ social:
     - https://github.com/phspace       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/hung-pham-162a40159/
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +83,7 @@ theme_mode:  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/images/avatar.jpeg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
