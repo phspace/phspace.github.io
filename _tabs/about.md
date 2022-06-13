@@ -6,8 +6,7 @@ order: 4
 
 Software Engineer \|\| Cloud, DevOps, DataOps, MLOps, Cybersecurity
 
-[email@hungpham.de](email@hungpham.de) 
-\|\| [https://read.hpspaces.de/](https://read.hpspaces.de/)
+email@hungpham.de \|\| [https://read.hpspaces.de/](https://read.hpspaces.de/)
 
 ## Core Skills
 
