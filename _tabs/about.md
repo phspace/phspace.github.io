@@ -1,8 +1,22 @@
 ---
-title: About
+title: About me
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Software Engineer \|\| Cloud, DevOps, DataOps, MLOps, Cybersecurity
+
+[email@hungpham.de](email@hungpham.de) 
+\|\| [https://read.hpspaces.de/](https://read.hpspaces.de/)
+
+## Core Skills
+
+## Project Experiences
+
+## Certificates
+
+## Education
+
+## Languages
+
+## Hobbies

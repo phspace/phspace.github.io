@@ -23,7 +23,7 @@ timezone: Europe/Berlin
 
 title: Hung Pham                          # the main title
 
-tagline: A personal note webpage   # it will display as the sub-title
+tagline: personal development space   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting documents and notes written by Hung Pham.
@@ -73,7 +73,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:  # [light|dark]
+theme_mode: dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
