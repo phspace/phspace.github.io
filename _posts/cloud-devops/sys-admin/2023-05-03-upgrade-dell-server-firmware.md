@@ -3,7 +3,7 @@ layout: post
 title: Upgrade Dell Server Firmware with Ansible
 date: 2023-05-03 00:00 +0200
 author: hung
-categories: [Sys-Admin, Ansible]
+categories: [Cloud/DevOps, Ansible]
 tags: [devops, ansible, dell, hardware, server]
 ---
 
