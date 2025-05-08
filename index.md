@@ -2,6 +2,7 @@
 layout: home
 title: DevOps Foundations & Beyond
 subtitle: A Practical Guide to Learning DevOps from Scratch
+nav_order: 1
 ---
 
 Welcome to **DevOps Foundations & Beyond**, a blog designed to take you from beginner to practitioner in the world of DevOps. Whether you're a student, a self-taught developer, or an IT professional looking to pivot into DevOps, this blog will guide you through essential topics step-by-step.
